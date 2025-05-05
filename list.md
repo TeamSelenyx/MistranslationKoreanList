@@ -1,3 +1,62 @@
+# Item Group
+|내부 식별자|영문|오역|수정|
+|:---:|:---:|:---:|:---:|
+|itemGroup.name.rawFood|Raw Food|익희지 않은 음식|익히지 않은 음식|
+
+<br>
+
+# Item
+|내부 식별자|영문|오역|수정|
+|:---:|:---:|:---:|:---:|
+|item.clay_ball.name|Clay Ball|점토 볼|점토 덩이|
+|item.bone.name|Bone|뼈|뼈다귀|
+|item.crossbow.name|Crossbow|석궁|쇠뇌|
+|item.repeater.name|Redstone Repeater|레드스톤 비교 회로|레드스톤 중계기|
+|item.elytra.name|Elytra|딱지날개|겉날개|
+|item.end_crystal.name|End Crystal|엔더 수정|엔드 수정|
+|item.end_rod.name|End Rod|엔더 막대|엔드 막대기|
+|item.blaze_rod.name|Blaze Rod|블레이즈 막대|블레이즈 막대기|
+|item.beef.name|Raw Beef|익희지 않은 소고기|익히지 않은 소고기|
+|item.chicken.name|Raw Chicken|익희지 않은 닭고기|익히지 않은 닭고기|
+|item.fish.name|Raw Cod|익희지 않은 대구|익히지 않은 대구|
+|item.salmon.name|Raw Salmon|익희지 않은 연어|익히지 않은 연어|
+|item.muttonRaw.name|Raw Mutton|익희지 않은 양고기|익히지 않은 양고기|
+|item.porkchop.name|Raw Porkchop|익희지 않은 돼지고기|익히지 않은 돼지고기|
+|item.rabbit.name|Raw Rabbit|익희지 않은 토끼고기|익히지 않은 토끼고기|
+|item.bucketPowderSnow.name|Powder Snow Bucket|눈가루 양동이|가루눈 양동이|
+|item.bucketFish.name|Bucket of Cod|대구 양동이|대구가 담긴 양동이|
+|item.bucketSalmon.name|Bucket of Salmon|연어 양동이|연어가 담긴 양동이|
+|item.bucketTropical.name|Bucket of Tropical Fish|열대어 양동이|열대어가 담긴 양동이|
+|item.bucketPuffer.name|Bucket of Pufferfish|복어 양동이|복어가 담긴 양동이|
+|item.bucketAxolotl.name|Bucket of Axolotl|아홀로틀 양동이|아홀로틀이 담긴 양동이|
+|item.bucketCustomFish.name|Bucket of |다음 물고기로 가득찬 양동이: |물고기 종류: |
+|item.exposed_copper_door.name|Exposed Copper Door|노출된 구리 문|약간 녹슨 구리 문|
+|item.weathered_copper_door.name|Exposed Copper Door|풍화된 구리 문|녹슨 구리 문|
+|item.waxed_copper_door.name|Waxed Copper Door|왁스 구리 문|밀랍칠한 구리 문|
+|item.waxed_exposed_copper_door.name|Waxed Exposed Copper Door|왁스 노출된 구리 문|밀랍칠한 약간 녹슨 구리 문|
+|item.waxed_oxidized_copper_door.name|Waxed Oxidized Copper Door|왁스 산화된 구리 문|밀랍칠한 산화된 구리 문|
+|item.waxed_weathered_copper_door.name|Waxed Weathered Copper Door|왁스 풍화된 구리 문|밀랍칠한 녹슨 구리 문|
+|item.wind_charge.name|Wind Charge|바람 돌격|돌풍구|
+|item.wolf_armor.name|Wolf Armor|늑대 방어구|늑대 갑옷|
+|item.trial_key.name|Trial Key|체험판 키|시련 열쇠|
+|item.ominous_trial_key.name|Ominous Trial Key|불길한 체험판 열쇠|불길한 시련 열쇠|
+|item.shulker_shell.name|Shulker Shell|셜커 껍질|셜커 껍데기|
+|item.turtle_shell_piece.name|Turtle Scute|거북 등딱지|거북 인갑|
+|item.phantom_membrane.name|Phantom Membrane|팬텀 멤브레인|팬텀 막|
+|item.sweet_berries.name|Suspicious Stew|달콤한 나무열매|달콤한 열매|
+|item.pale_oak_door.name|Pale Oak Door|옅은 참나무 문|창백한 참나무 문|
+|item.pale_oak_hanging_sign.name|Pale Oak Hanging Sign|옅은 참나무 매다는 표지판|창백한 참나무 매다는 표지판|
+|item.pale_oak_sign.name|Pale Oak Sign|옅은 참나무 표지판|창백한 참나무 표지판|
+|item.pale_oak_sapling.name|Pale Oak Sapling|옅은 참나무 묘목|창백한 참나무 묘목|
+|item.pale_oak_leaves.name|Pale Oak Leaves|옅은 참나무 잎|창백한 참나무 잎|
+|item.boat.pale_oak.name|Pale Oak Boat|옅은 참나무 보트|창백한 참나무 보트|
+|item.chest_boat.pale_oak.name|Pale Oak Boat with Chest|상자가 실린 옅은 참나무 보트|상자가 실린 창백한 참나무 보트|
+|item.resin_brick.name|Resin Brick|레진 벽돌|수지 벽돌|
+|item.worldbuilder.block.failed|You need Creative + Operator to place this block|이 블록을 배치하려면 크리에이티브 + 오퍼레이터가 필요합니다|이 블록을 설치하려면 크리에이티브 + 관리자 권한이 필요합니다|
+
+<br>
+
+# Block
 |내부 식별자|영문|오역|수정|
 |:---:|:---:|:---:|:---:|
 |tile.glass_pane.name|Glass Pane|판유리|유리판|
