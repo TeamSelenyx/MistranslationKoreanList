@@ -5,14 +5,14 @@
 
 # Item Group
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 |itemGroup.name.rawFood|Raw Food|익희지 않은 음식|익히지 않은 음식|
 
 <br>
 
 # Item
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 |item.crossbow.name|Crossbow|석궁|쇠뇌|
 |item.elytra.name|Elytra|딱지날개|겉날개|
 |item.beef.name|Raw Beef|익희지 않은 소고기|익히지 않은 소고기|
@@ -49,7 +49,7 @@
 
 # Block
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 |tile.glass_pane.name|Glass Pane|판유리|유리판|
 |tile.crafter.name|Crafter|제작자|제작기|
 |tile.soul_lantern.name|Soul Lantern|영혼의 불 랜턴|영혼 랜턴|
