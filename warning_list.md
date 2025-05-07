@@ -4,14 +4,14 @@
 ***
 
 # Item Group
-|내부 식별자|영문|오역|수정|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|
 |itemGroup.name.rawFood|Raw Food|익희지 않은 음식|익히지 않은 음식|
 
 <br>
 
 # Item
-|내부 식별자|영문|오역|수정|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|
 |item.crossbow.name|Crossbow|석궁|쇠뇌|
 |item.elytra.name|Elytra|딱지날개|겉날개|
@@ -48,7 +48,7 @@
 <br>
 
 # Block
-|내부 식별자|영문|오역|수정|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|
 |tile.glass_pane.name|Glass Pane|판유리|유리판|
 |tile.crafter.name|Crafter|제작자|제작기|
