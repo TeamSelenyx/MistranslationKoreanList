@@ -4,7 +4,7 @@
 ***
 
 # Color
-|내부 식별자|영문|오역|수정|비고|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
 |color.dark_green|Dark Green|어두운 녹색|어두운 초록색|
 |color.green|Green|녹색|초록색|
@@ -13,7 +13,7 @@
 <br>
 
 # Tooltip
-|내부 식별자|영문|오역|수정|비고|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
 |hudScreen.tooltip.waxOn|Wax On|왁스 켜기|밀랍 칠하기|
 |hudScreen.tooltip.waxOff|Wax Off|왁스 끄기|밀랍 벗기기|
@@ -21,7 +21,7 @@
 <br>
 
 # Entity
-|내부 식별자|영문|오역|수정|비고|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
 |entity.minecart.name|Minecart|광물 수레|광산 수레|
 |entity.chest_minecart.name|Minecart with Chest|상자 광물 수레|상자가 실린 광산 수레|
@@ -33,14 +33,14 @@
 <br>
 
 # Item Group
-|내부 식별자|영문|오역|수정|비고|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
 |itemGroup.name.rawFood|Raw Food|익희지 않은 음식|익히지 않은 음식|
 
 <br>
 
 # Item
-|내부 식별자|영문|오역|수정|비고|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
 |item.minecart.name|Minecart|광물 수레|광산 수레|
 |item.chest_minecart.name|Minecart with Chest|상자 광물 수레|상자가 실린 광산 수레|
@@ -106,7 +106,7 @@
 <br>
 
 # Block
-|내부 식별자|영문|오역|수정|비고|
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
 |tile.bed.noSleep|You can only sleep at night and during thunderstorms|밤과 천둥 번개가 치는 동안에만 잠을 잘 수 있습니다|밤이나 뇌우 중에만 잘 수 있습니다|
 |tile.bed.notSafe|You may not rest now, there are monsters nearby|지금은 쉴 수 없습니다. 근처에 몬스터가 있습니다.|근처에 몬스터가 있어 쉴 수 없습니다|
