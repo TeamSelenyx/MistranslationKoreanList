@@ -13,18 +13,8 @@
 # Item
 |내부 식별자|영문|오역|수정|
 |:---:|:---:|:---:|:---:|
-|item.comparator.name|Redstone Comparator|레드스톤 비교 회로|레드스톤 비교기|
-|item.crimson_door.name|Crimson Door|진홍색 문|진홍빛 문|
-|item.crimson_sign.name|Crimson Sign|진홍색 표지판|진홍빛 표지판|
-|item.crimson_hanging_sign.name|Crimson Hanging Sign|진홍색 매다는 표지판|진홍빛 매다는 표지판|
-|item.glow_berries.name|Glow Berries|빛나는 나무열매|발광 열매|
-|item.clay_ball.name|Clay Ball|점토 볼|점토 덩이|
-|item.bone.name|Bone|뼈|뼈다귀|
 |item.crossbow.name|Crossbow|석궁|쇠뇌|
 |item.elytra.name|Elytra|딱지날개|겉날개|
-|item.end_crystal.name|End Crystal|엔더 수정|엔드 수정|
-|item.end_rod.name|End Rod|엔더 막대|엔드 막대기|
-|item.blaze_rod.name|Blaze Rod|블레이즈 막대|블레이즈 막대기|
 |item.beef.name|Raw Beef|익희지 않은 소고기|익히지 않은 소고기|
 |item.chicken.name|Raw Chicken|익희지 않은 닭고기|익히지 않은 닭고기|
 |item.fish.name|Raw Cod|익희지 않은 대구|익히지 않은 대구|
@@ -33,12 +23,6 @@
 |item.porkchop.name|Raw Porkchop|익희지 않은 돼지고기|익히지 않은 돼지고기|
 |item.rabbit.name|Raw Rabbit|익희지 않은 토끼고기|익히지 않은 토끼고기|
 |item.bucketPowderSnow.name|Powder Snow Bucket|눈가루 양동이|가루눈 양동이|
-|item.bucketFish.name|Bucket of Cod|대구 양동이|대구가 담긴 양동이|
-|item.bucketSalmon.name|Bucket of Salmon|연어 양동이|연어가 담긴 양동이|
-|item.bucketTropical.name|Bucket of Tropical Fish|열대어 양동이|열대어가 담긴 양동이|
-|item.bucketPuffer.name|Bucket of Pufferfish|복어 양동이|복어가 담긴 양동이|
-|item.bucketAxolotl.name|Bucket of Axolotl|아홀로틀 양동이|아홀로틀이 담긴 양동이|
-|item.bucketCustomFish.name|Bucket of |다음 물고기로 가득찬 양동이: |물고기 종류: |
 |item.exposed_copper_door.name|Exposed Copper Door|노출된 구리 문|약간 녹슨 구리 문|
 |item.weathered_copper_door.name|Exposed Copper Door|풍화된 구리 문|녹슨 구리 문|
 |item.waxed_copper_door.name|Waxed Copper Door|왁스 구리 문|밀랍칠한 구리 문|
@@ -49,7 +33,6 @@
 |item.wolf_armor.name|Wolf Armor|늑대 방어구|늑대 갑옷|
 |item.trial_key.name|Trial Key|체험판 키|시련 열쇠|
 |item.ominous_trial_key.name|Ominous Trial Key|불길한 체험판 열쇠|불길한 시련 열쇠|
-|item.shulker_shell.name|Shulker Shell|셜커 껍질|셜커 껍데기|
 |item.turtle_shell_piece.name|Turtle Scute|거북 등딱지|거북 인갑|
 |item.phantom_membrane.name|Phantom Membrane|팬텀 멤브레인|팬텀 막|
 |item.sweet_berries.name|Suspicious Stew|달콤한 나무열매|달콤한 열매|
@@ -61,20 +44,12 @@
 |item.boat.pale_oak.name|Pale Oak Boat|옅은 참나무 보트|창백한 참나무 보트|
 |item.chest_boat.pale_oak.name|Pale Oak Boat with Chest|상자가 실린 옅은 참나무 보트|상자가 실린 창백한 참나무 보트|
 |item.resin_brick.name|Resin Brick|레진 벽돌|수지 벽돌|
-|item.worldbuilder.block.failed|You need Creative + Operator to place this block|이 블록을 배치하려면 크리에이티브 + 오퍼레이터가 필요합니다|이 블록을 설치하려면 크리에이티브 + 관리자 권한이 필요합니다|
 
 <br>
 
 # Block
 |내부 식별자|영문|오역|수정|
 |:---:|:---:|:---:|:---:|
-|tile.azalea_leaves.name|Azalea Leaves|철쭉 잎|진달래 잎|
-|tile.azalea_leaves_flowered.name|Flowering Azalea Leaves|꽃 핀 철쭉 잎|꽃 핀 진달래 잎|
-|tile.azalea.name|Azalea|철쭉|진달래|
-|tile.flowering_azalea.name|Flowering Azalea|꽃 핀 철쭉|꽃 핀 진달래|
-|tile.moss_carpet.name|Moss Carpet|이끼 카펫|이끼 바닥|
-|tile.honeycomb_block.name|Honeycomb Block|벌집 블록|벌집 조각 블록|
-|tile.trapped_chest.name|Trapped Chest|함정 상자|덫 상자|
 |tile.glass_pane.name|Glass Pane|판유리|유리판|
 |tile.crafter.name|Crafter|제작자|제작기|
 |tile.soul_lantern.name|Soul Lantern|영혼의 불 랜턴|영혼 랜턴|
@@ -86,9 +61,6 @@
 |tile.pitcher_plant.name|Pitcher Plant|피처 식물|벌레잡이풀|
 |tile.tripWire.name|Tripwire|트립와이어|철사 덫|
 |tile.tripwire_hook.name|Tripwire Hook|트립와이어 후크|철사 덫 갈고리|
-|tile.stone.andesiteSmooth.name|Polished Andesite|부드러운 안산암|윤나는 안산암|
-|tile.stone.dioriteSmooth.name|Polished Diorite|부드러운 섬록암|윤나는 섬록암|
-|tile.stone.graniteSmooth.name|Polished Granite|부드러운 화강암|윤나는 화강암|
 |tile.light_block.name|Light|밝음|빛|
 |tile.redstone_lamp.name|Redstone Lamp|레드스톤 램프|레드스톤 조명|
 |tile.trial_spawner.name|Trial Spawner|체험판 생성지|시련 생성기|
@@ -102,36 +74,6 @@
 |tile.purpur_block.chiseled.name|Chiseled Purpur|깎아놓은 보라보라|조각된 퍼퍼|
 |tile.purpur_stairs.name|Purpur Stairs|보라보라 계단|퍼퍼 계단|
 |tile.purpur_slab.name|Purpur Slab|보라보라 판|퍼퍼 반 블록|
-|tile.nether_sprouts.name|Nether Sprouts|네더 새싹|네더 싹|
-|tile.crimson_fungus.name|Crimson Fungus|진홍색 버섯|진홍빛 균|
-|tile.warped_fungus.name|Warped Fungus|뒤틀린 버섯|뒤틀린 균|
-|tile.crimson_stem.name|Crimson Stem|진홍색 줄기|껍질 벗긴 진홍빛 자루|
-|tile.warped_stem.name|Warped Stem|뒤틀린 줄기|껍질 벗긴 뒤틀린 자루|
-|tile.stripped_crimson_stem.name|Stripped Crimson Stem|벗겨진 진홍색 줄기|껍질 벗긴 진홍빛 자루|
-|tile.stripped_warped_stem.name|Stripped Warped Stem|벗겨진 뒤틀린 줄기|껍질 벗긴 뒤틀린 자루|
-|tile.crimson_hyphae.name|Crimson Hyphae|진홍색 균사|진홍빛 균사|
-|tile.stripped_crimson_hyphae.name|Stripped Crimson Hyphae|벗겨진 진홍색 균사|껍질 벗긴 진홍빛 균사|
-|tile.stripped_warped_hyphae.name|Stripped Warped Hyphae|벗겨진 뒤틀린 균사|껍질 벗긴 뒤틀린 균사|
-|tile.crimson_planks.name|Crimson Planks|진홍색 판자|진홍빛 판자|
-|tile.crimson_door.name|Crimson Door|진홍색 문|진홍빛 문|
-|tile.crimson_trapdoor.name|Crimson Trapdoor|진홍색 뚜껑문|진홍빛 다락문|
-|tile.warped_trapdoor.name|Warped Trapdoor|뒤틀린 뚜껑문|뒤틀린 다락문|
-|tile.crimson_standing_sign.name|Crimson Sign|진홍색 표지판|진홍빛 표지판|
-|tile.crimson_wall_sign.name|Crimson Sign|진홍색 표지판|진홍빛 표지판|
-|tile.crimson_stairs.name|Crimson Stairs|진홍색 계단|진홍빛 계단|
-|tile.crimson_fence.name|Crimson Fence|진홍색 울타리|진홍빛 울타리|
-|tile.crimson_fence_gate.name|Crimson Fence Gate|진홍색 울타리 문|진홍빛 울타리 문|
-|tile.crimson_button.name|Crimson Button|진홍색 버튼|진홍빛 버튼|
-|tile.crimson_pressure_plate.name|Crimson Pressure Plate|진홍색 감압판|진홍빛 압력판|
-|tile.warped_pressure_plate.name|Warped Pressure Plate|뒤틀린 감압판|뒤틀린 압력판|
-|tile.crimson_slab.name|Crimson Slab|진홍색 판|진홍빛 반 블록|
-|tile.warped_slab.name|Warped Slab|뒤틀린 판|뒤틀린 반 블록|
-|tile.crimson_double_slab.name|Crimson Slab|진홍색 판|진홍빛 반 블록|
-|tile.warped_double_slab.name|Warped Slab|뒤틀린 판|뒤틀린 반 블록|
-|tile.crimson_nylium.name|Crimson Nylium|진홍색 나일륨|진홍빛 네사체|
-|tile.warped_nylium.name|Warped Nylium|뒤틀린 나일륨|뒤틀린 네사체|
-|tile.crimson_roots.crimsonRoots.name|Crimson Roots|진홍색 뿌리|진홍빛 뿌리|
-|tile.shroomlight.name|Shroomlight|쉬룸라이트|버섯불|
 |tile.blackstone.name|Blackstone|블랙스톤|흑암|
 |tile.polished_blackstone_bricks.name|Polished Blackstone Bricks|광택 블랙스톤 벽돌|윤나는 흑암 벽돌|
 |tile.cracked_polished_blackstone_bricks.name|Cracked Polished Blackstone Bricks|갈라진 광택 블랙스톤 벽돌|금 간 윤나는 흑암 벽돌|
