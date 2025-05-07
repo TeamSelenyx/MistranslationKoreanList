@@ -3,21 +3,32 @@
 
 ***
 
+# Tooltip
+|내부 식별자|영문|오역|수정|비고|
+|:---:|:---:|:---:|:---:|:---:|
+|hudScreen.tooltip.waxOn|Wax On|왁스 켜기|밀랍 칠하기|
+|hudScreen.tooltip.waxOff|Wax Off|왁스 끄기|밀랍 벗기기|
+
+<br>
+
 # Item Group
-|내부 식별자|영문|오역|수정|
-|:---:|:---:|:---:|:---:|
+|내부 식별자|영문|오역|수정|비고|
+|:---:|:---:|:---:|:---:|:---:|
 |itemGroup.name.rawFood|Raw Food|익희지 않은 음식|익히지 않은 음식|
 
 <br>
 
 # Item
-|내부 식별자|영문|오역|수정|
-|:---:|:---:|:---:|:---:|
+|내부 식별자|영문|오역|수정|비고|
+|:---:|:---:|:---:|:---:|:---:|
 |item.comparator.name|Redstone Comparator|레드스톤 비교 회로|레드스톤 비교기|
 |item.crimson_door.name|Crimson Door|진홍색 문|진홍빛 문|
 |item.crimson_sign.name|Crimson Sign|진홍색 표지판|진홍빛 표지판|
 |item.crimson_hanging_sign.name|Crimson Hanging Sign|진홍색 매다는 표지판|진홍빛 매다는 표지판|
 |item.glow_berries.name|Glow Berries|빛나는 나무열매|발광 열매|
+|item.raw_copper.name|Raw Copper|원시 구리|구리 원석|
+|item.raw_iron.name|Raw Iron|원시 철|철 원석|
+|item.raw_gold.name|Raw Gold|원시 금|금 원석|
 |item.clay_ball.name|Clay Ball|점토 볼|점토 덩이|
 |item.bone.name|Bone|뼈|뼈다귀|
 |item.crossbow.name|Crossbow|석궁|쇠뇌|
@@ -66,12 +77,32 @@
 <br>
 
 # Block
-|내부 식별자|영문|오역|수정|
-|:---:|:---:|:---:|:---:|
+|내부 식별자|영문|오역|수정|비고|
+|:---:|:---:|:---:|:---:|:---:|
+|tile.bed.noSleep|You can only sleep at night and during thunderstorms|밤과 천둥 번개가 치는 동안에만 잠을 잘 수 있습니다|밤이나 뇌우 중에만 잘 수 있습니다|
+|tile.bed.notSafe|You may not rest now, there are monsters nearby|지금은 쉴 수 없습니다. 근처에 몬스터가 있습니다.|근처에 몬스터가 있어 쉴 수 없습니다|
+|tile.bed.notValid|Your home bed was missing or obstructed|침대가 없어지거나 파괴되었습니다|당신의 집 침대 또는 충전된 리스폰 정박기가 없거나, 가로막혀 있습니다|
+|tile.bed.occupied|This bed is occupied|누군가가 이미 침대에 누워있습니다|다른 사람이 이미 침대에 누워 있습니다|
+|tile.bed.tooFar|Bed is too far away|침대가 너무 멀리 있습니다|침대가 너무 멀리 있어 쉴 수 없습니다|
+|tile.invisibleBedrock.name|Invisible Bedrock|투명 기반암|보이지 않는 기반암|
+|tile.activator_rail.name|Activator Rail|작동기 레일|활성화 레일|
+|tile.budding_amethyst.name|Budding Amethyst|싹 튼 자수정|싹 틔우는 자수정|
+|tile.amethyst_cluster.name|Amethyst Cluster|송이 자수정|자수정 군집|
+|tile.smooth_basalt.name|Smooth Basalt|부드러운 현무암|매끄러운 현무암|
+|tile.carved_pumpkin.name|Carved Pumpkin|조각한 호박|조각된 호박|
+|tile.conduit.name|Conduit|도관|전달체|
+|tile.anvil.slightlyDamaged.name|Chipped Anvil|부서진 모루|금 간 모루|
+|tile.anvil.veryDamaged.name|Damaged Anvil|손상된 모루|손상된 모루|
+|tile.raw_copper_block.name|Block of Raw Copper|원석 구리 블록|구리 원석 블록|
+|tile.raw_iron_block.name|Block of Raw Iron|원석 철 블록|철 원석 블록|
+|tile.raw_gold_block.name|Block of Raw Gold|원석 금 블록|금 원석 블록|
 |tile.azalea_leaves.name|Azalea Leaves|철쭉 잎|진달래 잎|
 |tile.azalea_leaves_flowered.name|Flowering Azalea Leaves|꽃 핀 철쭉 잎|꽃 핀 진달래 잎|
 |tile.azalea.name|Azalea|철쭉|진달래|
 |tile.flowering_azalea.name|Flowering Azalea|꽃 핀 철쭉|꽃 핀 진달래|
+|tile.big_dripleaf.name|Big Dripleaf|큰 드립리프|큰 흘림잎|
+|tile.small_dripleaf_block.name|Small Dripleaf|작은 드립리프|작은 흘림잎|
+|tile.dirt_with_roots.name|Rooted Dirt|뿌리 내린 흙|뿌리내린 흙|
 |tile.moss_carpet.name|Moss Carpet|이끼 카펫|이끼 바닥|
 |tile.honeycomb_block.name|Honeycomb Block|벌집 블록|벌집 조각 블록|
 |tile.trapped_chest.name|Trapped Chest|함정 상자|덫 상자|
