@@ -3,11 +3,32 @@
 
 ***
 
+# Color
+|내부 식별자|영문|오역|수정|비고|
+|:---:|:---:|:---:|:---:|:---:|
+|color.dark_green|Dark Green|어두운 녹색|어두운 초록색|
+|color.green|Green|녹색|초록색|
+|color.white|White|흰색|하얀색|
+
+<br>
+
 # Tooltip
 |내부 식별자|영문|오역|수정|비고|
 |:---:|:---:|:---:|:---:|:---:|
 |hudScreen.tooltip.waxOn|Wax On|왁스 켜기|밀랍 칠하기|
 |hudScreen.tooltip.waxOff|Wax Off|왁스 끄기|밀랍 벗기기|
+
+<br>
+
+# Entity
+|내부 식별자|영문|오역|수정|비고|
+|:---:|:---:|:---:|:---:|:---:|
+|entity.minecart.name|Minecart|광물 수레|광산 수레|
+|entity.chest_minecart.name|Minecart with Chest|상자 광물 수레|상자가 실린 광산 수레|
+|entity.command_block_minecart.name|Minecart with Command Block|커맨드 블록 광물 수레|명령 블록이 실린 광산 수레|
+|entity.furnace_minecart.name|Minecart with Furnace|화로 광물 수레|화로가 실린 광산 수레|
+|entity.hopper_minecart.name|Minecart with Hopper|호퍼 광물 수레|호퍼가 실린 광산 수레|
+|entity.tnt_minecart.name|Minecart with TNT|TNT 광물 수레|TNT가 실린 광산 수레|
 
 <br>
 
@@ -21,6 +42,12 @@
 # Item
 |내부 식별자|영문|오역|수정|비고|
 |:---:|:---:|:---:|:---:|:---:|
+|item.minecart.name|Minecart|광물 수레|광산 수레|
+|item.chest_minecart.name|Minecart with Chest|상자 광물 수레|상자가 실린 광산 수레|
+|item.command_block_minecart.name|Minecart with Command Block|커맨드 블록 광물 수레|명령 블록이 실린 광산 수레|
+|item.minecartFurnace.name|Minecart with Furnace|화로 광물 수레|화로가 실린 광산 수레|
+|item.hopper_minecart.name|Minecart with Hopper|호퍼 광물 수레|호퍼가 실린 광산 수레|
+|item.tnt_minecart.name|Minecart with TNT|TNT 광물 수레|TNT가 실린 광산 수레|
 |item.comparator.name|Redstone Comparator|레드스톤 비교 회로|레드스톤 비교기|
 |item.crimson_door.name|Crimson Door|진홍색 문|진홍빛 문|
 |item.crimson_sign.name|Crimson Sign|진홍색 표지판|진홍빛 표지판|
@@ -29,6 +56,8 @@
 |item.raw_copper.name|Raw Copper|원시 구리|구리 원석|
 |item.raw_iron.name|Raw Iron|원시 철|철 원석|
 |item.raw_gold.name|Raw Gold|원시 금|금 원석|
+|item.pitcher_pod.name|Pitcher Pod|벌레잡이풀 깍지|벌레잡이풀 꼬투리|
+|item.nautilus_shell.name|Nautilus Shell|앵무조개|앵무조개 껍데기|
 |item.clay_ball.name|Clay Ball|점토 볼|점토 덩이|
 |item.bone.name|Bone|뼈|뼈다귀|
 |item.crossbow.name|Crossbow|석궁|쇠뇌|
@@ -84,12 +113,127 @@
 |tile.bed.notValid|Your home bed was missing or obstructed|침대가 없어지거나 파괴되었습니다|당신의 집 침대 또는 충전된 리스폰 정박기가 없거나, 가로막혀 있습니다|
 |tile.bed.occupied|This bed is occupied|누군가가 이미 침대에 누워있습니다|다른 사람이 이미 침대에 누워 있습니다|
 |tile.bed.tooFar|Bed is too far away|침대가 너무 멀리 있습니다|침대가 너무 멀리 있어 쉴 수 없습니다|
+|tile.soul_soil.name|Soul Soil|영혼의 흙|영혼 흙|
+|tile.soul_fire.name|Soul Fire|영혼의 불|영혼 불|
+|tile.soul_campfire.name|Soul Campfire|영혼의 모닥불|영혼 모닥불|
 |tile.invisibleBedrock.name|Invisible Bedrock|투명 기반암|보이지 않는 기반암|
 |tile.activator_rail.name|Activator Rail|작동기 레일|활성화 레일|
 |tile.budding_amethyst.name|Budding Amethyst|싹 튼 자수정|싹 틔우는 자수정|
 |tile.amethyst_cluster.name|Amethyst Cluster|송이 자수정|자수정 군집|
 |tile.smooth_basalt.name|Smooth Basalt|부드러운 현무암|매끄러운 현무암|
 |tile.carved_pumpkin.name|Carved Pumpkin|조각한 호박|조각된 호박|
+|tile.stained_hardened_clay.green.name|Green Terracotta|녹색 테라코타|초록색 테라코타|
+|tile.stained_hardened_clay.lightBlue.name|Light Blue Terracotta|밝은 파란색 테라코타|하늘색 테라코타|
+|tile.stained_hardened_clay.silver.name|Light Gray Terracotta|밝은 회색 테라코타|회백색 테라코타|
+|tile.stained_hardened_clay.white.name|White Terracotta|흰색 테라코타|하얀색 테라코타|
+|tile.glazedTerracottaGreen.name|Green Glazed Terracotta|녹색 유광 테라코타|초록색 유광 테라코타|
+|tile.glazedTerracottaLightBlue.name|Light Blue Glazed Terracotta|밝은 파란색 유광 테라코타|하늘색 유광 테라코타|
+|tile.glazedTerracottaSilver.name|Light Gray Glazed Terracotta|밝은 회색 유광 테라코타|회백색 유광 테라코타|
+|tile.glazedTerracottaWhite.name|White Glazed Terracotta|흰색 유광 테라코타|하얀색 유광 테라코타|
+|tile.glazedTerracotta.green.name|Green Glazed Terracotta|녹색 유광 테라코타|초록색 유광 테라코타|
+|tile.glazedTerracotta.lightBlue.name|Light Blue Glazed Terracotta|밝은 파란색 유광 테라코타|하늘색 유광 테라코타|
+|tile.glazedTerracotta.silver.name|Light Gray Glazed Terracotta|밝은 회색 유광 테라코타|회백색 유광 테라코타|
+|tile.glazedTerracotta.white.name|White Glazed Terracotta|흰색 유광 테라코타|하얀색 유광 테라코타|
+|tile.concrete.green.name|Green Concrete|녹색 콘크리트|초록색 콘크리트|
+|tile.concrete.lightBlue.name|Light Blue Concrete|밝은 파란색 콘크리트|하늘색 콘크리트|
+|tile.concrete.silver.name|Light Gray Concrete|밝은 회색 콘크리트|회백색 콘크리트|
+|tile.concrete.white.name|White Concrete|흰색 콘크리트|하얀색 콘크리트|
+|tile.concretePowder.green.name|Green Concrete Powder|녹색 콘크리트 가루|초록색 콘크리트 가루|
+|tile.concretePowder.lightBlue.name|Light Blue Concrete Powder|밝은 파란색 콘크리트 가루|하늘색 콘크리트 가루|
+|tile.concretePowder.silver.name|Light Gray Concrete Powder|밝은 회색 콘크리트 가루|회백색 콘크리트 가루|
+|tile.concretePowder.white.name|White Concrete Powder|흰색 콘크리트 가루|하얀색 콘크리트 가루|
+|tile.wool.green.name|GreenWool|녹색 양털|초록색 양털|
+|tile.wool.lightBlue.name|Light Blue Wool|밝은 파란색 양털|하늘색 양털|
+|tile.wool.silver.name|Light Gray Wool|밝은 회색 양털|회백색 양털|
+|tile.wool.white.name|White Wool|흰색 양털|하얀색 양털|
+|tile.candle.name|Candle|촛불|초|
+|tile.white_candle.name|White Candle|흰색 촛불|하얀색 초|
+|tile.orange_candle.name|Orange Candle|주황색 촛불|주황색 초|
+|tile.magenta_candle.name|Magenta Candle|자홍색 촛불|자홍색 초|
+|tile.light_blue_candle.name|Light Blue Candle|밝은 파란색 촛불|하늘색 초|
+|tile.yellow_candle.name|Yellow Candle|노란색 촛불|노란색 초|
+|tile.lime_candle.name|Lime Candle|연두색 촛불|연두색 초|
+|tile.pink_candle.name|Pink Candle|분홍색 촛불|분홍색 초|
+|tile.gray_candle.name|Gray Candle|회색 촛불|회색 초|
+|tile.light_gray_candle.name|Light Gray Candle|밝은 회색 촛불|회백색 초|
+|tile.cyan_candle.name|Cyan Candle|청록색 촛불|청록색 초|
+|tile.purple_candle.name|Purple Candle|보라색 촛불|보라색 초|
+|tile.blue_candle.name|Blue Candle|파란색 촛불|파란색 초|
+|tile.brown_candle.name|Brown Candle|갈색 촛불|갈색 초|
+|tile.green_candle.name|Green Candle|녹색 촛불|초록색 초|
+|tile.red_candle.name|Red Candle|빨간색 촛불|빨간색 초|
+|tile.black_candle.name|Black Candle|검은색 촛불|검은색 초|
+|tile.candle_cake.name|Cake with Candle|촛불 꽂은 케이크|초를 꽂은 케이크|
+|tile.white_candle_cake.name|Cake with White Candle|흰색 촛불 꽂은 케이크|하얀색 초를 꽂은 케이크|
+|tile.orange_candle_cake.name|Cake with Orange Candle|주황색 촛불 꽂은 케이크|주황색 초를 꽂은 케이크|
+|tile.magenta_candle_cake.name|Cake with Magenta Candle|자홍색 촛불 꽂은 케이크|자홍색 초를 꽂은 케이크|
+|tile.light_blue_candle_cake.name|Cake with Light Blue Candle|밝은 파란색 촛불 꽂은 케이크|하늘색 초를 꽂은 케이크|
+|tile.yellow_candle_cake.name|Cake with Yellow Candle|노란색 촛불 꽂은 케이크|노란색 초를 꽂은 케이크|
+|tile.lime_candle_cake.name|Cake with Lime Candle|연두색 촛불 꽂은 케이크|연두색 초를 꽂은 케이크|
+|tile.pink_candle_cake.name|Cake with Pink Candle|분홍색 촛불 꽂은 케이크|분홍색 초를 꽂은 케이크|
+|tile.gray_candle_cake.name|Cake with Gray Candle|회색 촛불 꽂은 케이크|회색 초를 꽂은 케이크|
+|tile.light_gray_candle_cake.name|Cake with Light Gray Candle|밝은 회색 촛불 꽂은 케이크|회백색 초를 꽂은 케이크|
+|tile.cyan_candle_cake.name|Cake with Cyan Candle|청록색 촛불 꽂은 케이크|청록색 초를 꽂은 케이크|
+|tile.purple_candle_cake.name|Cake with Purple Candle|보라색 촛불 꽂은 케이크|보라색 초를 꽂은 케이크|
+|tile.blue_candle_cake.name|Cake with Blue Candle|파란색 촛불 꽂은 케이크|파란색 초를 꽂은 케이크|
+|tile.brown_candle_cake.name|Cake with Brown Candle|갈색 촛불 꽂은 케이크|갈색 초를 꽂은 케이크|
+|tile.green_candle_cake.name|Cake with Green Candle|녹색 촛불 꽂은 케이크|초록색 초를 꽂은 케이크|
+|tile.red_candle_cake.name|Cake with Red Candle|빨간색 촛불 꽂은 케이크|빨간색 초를 꽂은 케이크|
+|tile.black_candle_cake.name|Cake with Black Candle|검은색 촛불 꽂은 케이크|검은색 초를 꽂은 케이크|
+|tile.carpet.name|Carpet|카펫|양탄자|
+|tile.carpet.black.name|Black Carpet|검은색 카펫|검은색 양탄자|
+|tile.carpet.blue.name|Blue Carpet|파란색 카펫|파란색 양탄자|
+|tile.carpet.brown.name|Brown Carpet|갈색 카펫|갈색 양탄자|
+|tile.carpet.cyan.name|Cyan Carpet|청록색 카펫|청록색 양탄자|
+|tile.carpet.gray.name|Gray Carpet|회색 카펫|회색 양탄자|
+|tile.carpet.green.name|Green Carpet|녹색 카펫|초록색 양탄자|
+|tile.carpet.lightBlue.name|Light Blue Carpet|밝은 파란색 카펫|하늘색 양탄자|
+|tile.carpet.lime.name|Lime Carpet|연두색 카펫|연두색 양탄자|
+|tile.carpet.magenta.name|Magenta Carpet|자홍색 카펫|자홍색 양탄자|
+|tile.carpet.orange.name|Orange Carpet|주황색 카펫|주황색 양탄자|
+|tile.carpet.pink.name|Pink Carpet|분홍색 카펫|분홍색 양탄자|
+|tile.carpet.purple.name|Purple Carpet|보라색 카펫|보라색 양탄자|
+|tile.carpet.red.name|Red Carpet|빨간색 카펫|빨간색 양탄자|
+|tile.carpet.silver.name|Light Gray Carpet|밝은 회색 카펫|회백색 양탄자|
+|tile.carpet.white.name|White Carpet|흰색 카펫|하얀색 양탄자|
+|tile.carpet.yellow.name|Yellow Carpet|노란색 카펫|노란색 양탄자|
+
+|tile.glass_pane.name|Glass Pane|판유리|유리판|
+|tile.stained_glass.white.name|White Stained Glass|흰색 스테인드글라스|하얀색 색유리|
+|tile.stained_glass.silver.name|Light Gray Stained Glass|밝은 회색 스테인드글라스|회백색 색유리|
+|tile.stained_glass.gray.name|Gray Stained Glass|회색 스테인드글라스|회색 색유리|
+|tile.stained_glass.black.name|Black Stained Glass|검은색 스테인드글라스|검은색 색유리|
+|tile.stained_glass.brown.name|Brown Stained Glass|갈색 스테인드글라스|갈색 색유리|
+|tile.stained_glass.red.name|Red Stained Glass|빨간색 스테인드글라스|빨간색 색유리|
+|tile.stained_glass.orange.name|Orange Stained Glass|주황색 스테인드글라스|주황색 색유리|
+|tile.stained_glass.yellow.name|Yellow Stained Glass|노란색 스테인드글라스|노란색 색유리|
+|tile.stained_glass.lime.name|Lime Stained Glass|연두색 스테인드글라스|연두색 색유리|
+|tile.stained_glass.green.name|Green Stained Glass|녹색 스테인드글라스|초록색 색유리|
+|tile.stained_glass.cyan.name|Cyan Stained Glass|청록색 스테인드글라스|청록색 색유리|
+|tile.stained_glass.light_blue.name|Light Blue Stained Glass|밝은 파란색 스테인드글라스|하늘색 색유리|
+|tile.stained_glass.blue.name|Blue Stained Glass|파란색 스테인드글라스|파란색 색유리|
+|tile.stained_glass.purple.name|Purple Stained Glass|보라색 스테인드글라스|보라색 색유리|
+|tile.stained_glass.magenta.name|Magenta Stained Glass|자홍색 스테인드글라스|자홍색 색유리|
+|tile.stained_glass.pink.name|Pink Stained Glass|분홍색 스테인드글라스|분홍색 색유리|
+|tile.stained_glass_pane.white.name|White Stained Glass Pane|흰색 스테인드글라스 판유리|하얀색 색유리 판|
+|tile.stained_glass_pane.silver.name|Light Gray Stained Glass Pane|밝은 회색 스테인드글라스 판유리|회백색 색유리 판|
+|tile.stained_glass_pane.gray.name|Gray Stained Glass Pane|회색 스테인드글라스 판유리|회색 색유리 판|
+|tile.stained_glass_pane.black.name|Black Stained Glass Pane|검은색 스테인드글라스 판유리|검은색 색유리 판|
+|tile.stained_glass_pane.brown.name|Brown Stained Glass Pane|갈색 스테인드글라스 판유리|갈색 색유리 판|
+|tile.stained_glass_pane.red.name|Red Stained Glass Pane|빨간색 스테인드글라스 판유리|빨간색 색유리 판|
+|tile.stained_glass_pane.orange.name|Orange Stained Glass Pane|주황색 스테인드글라스 판유리|주황색 색유리 판|
+|tile.stained_glass_pane.yellow.name|Yellow Stained Glass Pane|노란색 스테인드글라스 판유리|노란색 색유리 판|
+|tile.stained_glass_pane.lime.name|Lime Stained Glass Pane|연두색 스테인드글라스 판유리|연두색 색유리 판|
+|tile.stained_glass_pane.green.name|Green Stained Glass Pane|녹색 스테인드글라스 판유리|초록색 색유리 판|
+|tile.stained_glass_pane.cyan.name|Cyan Stained Glass Pane|청록색 스테인드글라스 판유리|청록색 색유리 판|
+|tile.stained_glass_pane.light_blue.name|Light Blue Stained Glass Pane|밝은 파란색 스테인드글라스 판유리|하늘색 색유리 판|
+|tile.stained_glass_pane.blue.name|Blue Stained Glass Pane|파란색 스테인드글라스 판유리|파란색 색유리 판|
+|tile.stained_glass_pane.purple.name|Purple Stained Glass Pane|보라색 스테인드글라스 판유리|보라색 색유리 판|
+|tile.stained_glass_pane.magenta.name|Magenta Stained Glass Pane|자홍색 스테인드글라스 판유리|자홍색 색유리 판|
+|tile.stained_glass_pane.pink.name|Pink Stained Glass Pane|분홍색 스테인드글라스 판유리|분홍색 색유리 판|
+|tile.fletching_table.name|Fletching Table|화살 제조대|화살 작업대|
+|tile.end_portal_frame.name|End Portal Frame|엔더 포탈 외형|엔드 차원문 틀|
+|tile.enchanting_table.name|Enchanting Table|효과부여대|마법 부여대|
 |tile.conduit.name|Conduit|도관|전달체|
 |tile.anvil.slightlyDamaged.name|Chipped Anvil|부서진 모루|금 간 모루|
 |tile.anvil.veryDamaged.name|Damaged Anvil|손상된 모루|손상된 모루|
@@ -106,13 +250,16 @@
 |tile.moss_carpet.name|Moss Carpet|이끼 카펫|이끼 바닥|
 |tile.honeycomb_block.name|Honeycomb Block|벌집 블록|벌집 조각 블록|
 |tile.trapped_chest.name|Trapped Chest|함정 상자|덫 상자|
-|tile.glass_pane.name|Glass Pane|판유리|유리판|
 |tile.crafter.name|Crafter|제작자|제작기|
+|tile.dispenser.name|Dispenser|디스펜서|발사기|
+|tile.dropper.name|Dropper|드로퍼|공급기|
+|tile.daylight_detector.name|Daylight Detector|일광 탐지기|햇빛 감지기|
 |tile.soul_lantern.name|Soul Lantern|영혼의 불 랜턴|영혼 랜턴|
 |tile.smithing_table.name|Smithing Table|제련대|대장장이 작업대|
 |tile.sweet_berry_bush.name|Sweet Berry Bush|달콤한 나무열매 덤불|달콤한 열매 덤불|
 |tile.nether_gold_ore.name|Nether Gold Ore|네더 황금 광석|네더 금 광석|
 |tile.respawn_anchor.name|Respawn Anchor|리스폰 앵커|리스폰 정박기|
+|tile.respawn_anchor.notValid|Your respawn anchor was out of charges, missing or obstructed|리스폰 앵커가 충전되지 않았거나 없어지거나 막혀 있습니다.|충전된 리스폰 정박기가 없거나, 가로막혀 있습니다|
 |tile.powder_snow.name|Powder Snoe|눈가루|가루눈|
 |tile.pitcher_plant.name|Pitcher Plant|피처 식물|벌레잡이풀|
 |tile.tripWire.name|Tripwire|트립와이어|철사 덫|
@@ -124,8 +271,8 @@
 |tile.redstone_lamp.name|Redstone Lamp|레드스톤 램프|레드스톤 조명|
 |tile.trial_spawner.name|Trial Spawner|체험판 생성지|시련 생성기|
 |tile.command_block.name|Command Block|커맨드 블록|명령 블록|
-|tile.repeating_command_block.name|Repeating Command Block|반복 커맨드 블록|반복 명령 블록|
-|tile.chain_command_block.name|Chain Command Block|체인 커맨드 블록|체인 명령 블록|
+|tile.repeating_command_block.name|Repeating Command Block|반복 커맨드 블록|반복형 명령 블록|
+|tile.chain_command_block.name|Chain Command Block|체인 커맨드 블록|연쇄형 명령 블록|
 |tile.chorus_flower.name|Chorus Flower|코러스 꽃|후렴화|
 |tile.chorus_plant.name|Chorus Plant|코러스 식물|후렴초|
 |tile.purpur_block.default.name|Purpur Block|보라보라 블록|퍼퍼 블록|
