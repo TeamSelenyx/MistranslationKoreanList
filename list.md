@@ -197,7 +197,6 @@
 |tile.carpet.silver.name|Light Gray Carpet|밝은 회색 카펫|회백색 양탄자|
 |tile.carpet.white.name|White Carpet|흰색 카펫|하얀색 양탄자|
 |tile.carpet.yellow.name|Yellow Carpet|노란색 카펫|노란색 양탄자|
-
 |tile.glass_pane.name|Glass Pane|판유리|유리판|
 |tile.stained_glass.white.name|White Stained Glass|흰색 스테인드글라스|하얀색 색유리|
 |tile.stained_glass.silver.name|Light Gray Stained Glass|밝은 회색 스테인드글라스|회백색 색유리|
