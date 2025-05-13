@@ -36,12 +36,29 @@
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
 |itemGroup.name.rawFood|Raw Food|익희지 않은 음식|익히지 않은 음식|
+|itemGroup.name.harnesses|Harnesses|마구|하네스|
 
 <br>
 
 # Item
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
+|item.black_harness.name|Black Harness|검은색 마구|검은색 하네스|
+|item.blue_harness.name|Blue Harness|파란색 마구|파란색 하네스|
+|item.brown_harness.name|Brown Harness|갈색 마구|갈색 하네스|
+|item.cyan_harness.name|Cyan Harness|청록색 마구|청록색 하네스|
+|item.gray_harness.name|Gray Harness|회색 마구|회색 하네스|
+|item.green_harness.name|Green Harness|녹색 마구|초록색 하네스|
+|item.light_blue_harness.name|Light Blue Harness|밝은 파란색 마구|하늘색 하네스|
+|item.light_gray_harness.name|Light Gray Harness|밝은 회색 마구|회백색 하네스|
+|item.lime_harness.name|Lime Harness|연두색 마구|연두색 하네스|
+|item.magenta_harness.name|Magenta Harness|자홍색 마구|자홍색 하네스|
+|item.orange_harness.name|Orange Harness|주황색 마구|주황색 하네스|
+|item.pink_harness.name|Pink Harness|분홍색 마구|분홍색 하네스|
+|item.purple_harness.name|Purple Harness|보라색 마구|보라색 하네스|
+|item.red_harness.name|Red Harness|빨간색 마구|빨간색 하네스|
+|item.white_harness.name|White Harness|흰색 마구|하얀색 하네스|
+|item.yellow_harness.name|Yellow Harness|노란색 마구|노란색 하네스|
 |item.minecart.name|Minecart|광물 수레|광산 수레|
 |item.chest_minecart.name|Minecart with Chest|상자 광물 수레|상자가 실린 광산 수레|
 |item.command_block_minecart.name|Minecart with Command Block|커맨드 블록 광물 수레|명령 블록이 실린 광산 수레|
@@ -108,6 +125,7 @@
 # Block
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
+|tile.dried_ghast.name|Dried Ghast|말린 가스트|마른 가스트|
 |tile.bed.noSleep|You can only sleep at night and during thunderstorms|밤과 천둥 번개가 치는 동안에만 잠을 잘 수 있습니다|밤이나 뇌우 중에만 잘 수 있습니다|
 |tile.bed.notSafe|You may not rest now, there are monsters nearby|지금은 쉴 수 없습니다. 근처에 몬스터가 있습니다.|근처에 몬스터가 있어 쉴 수 없습니다|
 |tile.bed.notValid|Your home bed was missing or obstructed|침대가 없어지거나 파괴되었습니다|당신의 집 침대 또는 충전된 리스폰 정박기가 없거나, 가로막혀 있습니다|
