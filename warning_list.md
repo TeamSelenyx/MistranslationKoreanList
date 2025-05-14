@@ -1,5 +1,5 @@
 ### Base Version
->Minecraft v1.21.90.21
+>Minecraft v1.21.90.25
 
 ***
 

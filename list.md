@@ -1,5 +1,5 @@
 ### Base Version
->Minecraft v1.21.90.21
+>Minecraft v1.21.90.25
 
 ***
 
@@ -36,13 +36,71 @@
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
 |itemGroup.name.rawFood|Raw Food|익희지 않은 음식|익히지 않은 음식|
+|itemGroup.name.smithing_templates|Smithing Templates|대장일 템플릿|대장장이 형판|
 |itemGroup.name.harnesses|Harnesses|마구|하네스|
+
+<br>
+
+# Armor Trim
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
+|:---:|:---:|:---:|:---:|:---:|
+|trim_material.amethyst.name|Amethyst Material|자수정 재료|자수정 소재|
+|trim_material.copper.name|Copper Material|구리 재질|구리 소재|
+|trim_material.diamond.name|Diamond Material|다이아몬드 재료|다이아몬드 소재|
+|trim_material.emerald.name|Emerald Material|에메랄드 재료|에메랄드 소재|
+|trim_material.gold.name|Gold Material|골드 재료|금 소재|
+|trim_material.iron.name|Iron Material|철 재료|철 소재|
+|trim_material.lapis.name|Lapis Material|청금석 재료|청금석 소재|
+|trim_material.netherite.name|Netherite Material|네더라이트 재료|네더라이트 소재|
+|trim_material.quartz.name|Quartz Material|석영 재료|석영 소재|
+|trim_material.redstone.name|Redstone Material|레드스톤 재료|레드스톤 소재|
+|trim_material.resin.name|Resin Material|레진 재료|수지 소재|
+|trim_pattern.coast.name|Coast Armor Trim|해안 방어구 트림|해안 갑옷 장식|
+|trim_pattern.dune.name|Dune Armor Trim|모래 언덕 방어구 트림|사구 갑옷 장식|
+|trim_pattern.eye.name|Eye Armor Trim|눈 방어구 트림|눈 갑옷 장식|
+|trim_pattern.host.name|Host Armor Trim|호스트 방어구 트림|주인 갑옷 장식|
+|trim_pattern.raiser.name|Raiser Armor Trim|레이저 방어구 트림|사육사 갑옷 장식|
+|trim_pattern.rib.name|Rib Armor Trim|리브 방어구 트림|갈비뼈 갑옷 장식|
+|trim_pattern.sentry.name|Sentry Armor Trim|센트리 방어구 트림|보초 갑옷 장식|
+|trim_pattern.shaper.name|Shaper Armor Trim|셰이퍼 방어구 트림|조형가 갑옷 장식|
+|trim_pattern.silence.name|Silence Armor Trim|사일런스 방어구 트림|고요 갑옷 장식|
+|trim_pattern.snout.name|Snout Armor Trim|코 방어구 트림|돼지 코 갑옷 장식|
+|trim_pattern.spire.name|Spire Armor Trim|첨탑 방어구 트림|첨탑 갑옷 장식|
+|trim_pattern.tide.name|Tide Armor Trim|조류 방어구 트림|물결 갑옷 장식|
+|trim_pattern.vex.name|Vex Armor Trim|벡스 방어구 트림|벡스 갑옷 장식|
+|trim_pattern.ward.name|Ward Armor Trim|와드 방어구 트림|파수 갑옷 장식|
+|trim_pattern.wayfinder.name|Wayfinder Armor Trim|웨이파인더 방어구 트림|길잡이 갑옷 장식|
+|trim_pattern.wild.name|Wild Armor Trim|미개척지 방어구 트림|야생 갑옷 장식|
+|trim_pattern.bolt.name|Bolt Armor Trim|볼트 방어구 트림|나사 갑옷 장식|
+|trim_pattern.flow.name|Flow Armor Trim|흐름 방어구 트림|흐름 갑옷 장식|
 
 <br>
 
 # Item
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
+|item.smithing_template.armor_trim.applies_to|Armor|방어구|갑옷|
+|item.smithing_template.armor_trim.ingredients|Ingots & Crystals|주괴 & 크리스탈|주괴 & 수정|
+|item.smithing_template.name|Smithing Template|대장일 템플릿|대장장이 형판|
+|item.netherite_upgrade_smithing_template.name|Netherite Upgrade|네더라이트 업그레이드|네더라이트 강화|
+|item.sentry_armor_trim_smithing_template.name|Sentry Armor Trim|센트리 방어구 트림|보초 갑옷 장식|
+|item.vex_armor_trim_smithing_template.name|Vex Armor Trim|벡스 방어구 트림|벡스 갑옷 장식|
+|item.wild_armor_trim_smithing_template.name|Wild Armor Trim|미개척지 방어구 트림|야생 갑옷 장식|
+|item.coast_armor_trim_smithing_template.name|Coast Armor Trim|해안 방어구 트림|해안 갑옷 장식|
+|item.dune_armor_trim_smithing_template.name|Dune Armor Trim|모래 언덕 방어구 트림|사구 갑옷 장식|
+|item.wayfinder_armor_trim_smithing_template.name|Wayfinder Armor Trim|웨이파인더 방어구 트림|길잡이 갑옷 장식|
+|item.raiser_armor_trim_smithing_template.name|Raiser Armor Trim|레이저 방어구 트림|사육사 갑옷 장식|
+|item.shaper_armor_trim_smithing_template.name|Shaper Armor Trim|셰이퍼 방어구 트림|조형가 갑옷 장식|
+|item.host_armor_trim_smithing_template.name|Host Armor Trim|호스트 방어구 트림|주인 갑옷 장식|
+|item.ward_armor_trim_smithing_template.name|Ward Armor Trim|와드 방어구 트림|파수 갑옷 장식|
+|item.silence_armor_trim_smithing_template.name|Silence Armor Trim|사일런스 방어구 트림|고요 갑옷 장식|
+|item.tide_armor_trim_smithing_template.name|Tide Armor Trim|조류 방어구 트림|물결 갑옷 장식|
+|item.snout_armor_trim_smithing_template.name|Snout Armor Trim|코 방어구 트림|돼지 코 갑옷 장식|
+|item.rib_armor_trim_smithing_template.name|Rib Armor Trim|리브 방어구 트림|갈비뼈 갑옷 장식|
+|item.eye_armor_trim_smithing_template.name|Eye Armor Trim|눈 방어구 트림|눈 갑옷 장식|
+|item.spire_armor_trim_smithing_template.name|Spire Armor Trim|첨탑 방어구 트림|첨탑 갑옷 장식|
+|item.flow_armor_trim_smithing_template.name|Flow Armor Trim|흐름 방어구 트림|흐름 갑옷 장식|
+|item.bolt_armor_trim_smithing_template.name|Bolt Armor Trim|볼트 방어구 트림|나사 갑옷 장식|
 |item.black_harness.name|Black Harness|검은색 마구|검은색 하네스|
 |item.blue_harness.name|Blue Harness|파란색 마구|파란색 하네스|
 |item.brown_harness.name|Brown Harness|갈색 마구|갈색 하네스|
@@ -125,6 +183,27 @@
 # Block
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
+|tile.bamboo_mosaic_slab.name|Bamboo Mosaic Slab|대나무 모자이크 판|대나무 모자이크 반 블록|
+|tile.bamboo_slab.name|Bamboo Slab|대나무 판|대나무 반 블록|
+|tile.bamboo_trapdoor.name|Bamboo Trapdoor|대나무 뚜껑문|대나무 다락문|
+|tile.calibrated_sculk_sensor.name|Calibrated Sculk Sensor|보정된 스컬크 센서|조율한 스컬크 감지체|
+|tile.cherry_double_slab.name|Cherry Double Slab|벚나무 이중 판|벚나무 이중 반 블록|
+|tile.cherry_leaves.name|Cherry Leaves|벚나무 나뭇잎|벚나무 잎|
+|tile.cherry_log.name|Cherry Log|잘린 벚나무|벚나무 원목|
+|tile.cherry_pressure_plate.name|Cherry Pressure Plate|잘린 감압판|벚나무 압력판|
+|tile.cherry_slab.name|Cherry Slab|벚나무 판|벚나무 반 블록|
+|tile.cherry_trapdoor.name|Cherry Trapdoor|벚나무 뚜껑문|벚나무 다락문|
+|tile.cherry_wood.name|Cherry Wood|벚나무 원목|벚나무|
+|tile.chiseled_bookshelf.name|Chiseled Bookshelf|깎아놓은 책장|조각된 책장|
+|tile.chiseled_tuff.name|Chiseled Tuff|깎아놓은 응회암|조각된 응회암|
+|tile.chiseled_tuff_bricks.name|Chiseled Tuff Bricks|깎아놓은 응회암 벽돌|조각된 응회암 벽돌|
+|tile.pink_petals.name|Pink Petals|분홍색 꽃잎|분홍 꽃잎|
+|tile.stripped_bamboo_block.name|Block of Stripped Bamboo|껍질을 벗긴 대나무 블록|껍질 벗긴 대나무 블록|
+|tile.stripped_cherry_log.name|Stripped Cherry Log|벗겨진 잘린 벚나무|껍질 벗긴 벚나무 원목|
+|tile.stripped_cherry_wood.name|Stripped Cherry Wood|벗겨진 벚나무 원목|껍질 벗긴 벚나무|
+|tile.leaf_litter.name|Leaf Litter|낙엽|낙엽 더미|
+|tile.short_dry_grass.name|Short Dry Grass|짧은 마른 잔디|키 작은 마른 잔디|
+|tile.tall_dry_grass.name|Tall Dry Grass|긴 마른 잔디|키 큰 마른 잔디|
 |tile.dried_ghast.name|Dried Ghast|말린 가스트|마른 가스트|
 |tile.bed.noSleep|You can only sleep at night and during thunderstorms|밤과 천둥 번개가 치는 동안에만 잠을 잘 수 있습니다|밤이나 뇌우 중에만 잘 수 있습니다|
 |tile.bed.notSafe|You may not rest now, there are monsters nearby|지금은 쉴 수 없습니다. 근처에 몬스터가 있습니다.|근처에 몬스터가 있어 쉴 수 없습니다|
