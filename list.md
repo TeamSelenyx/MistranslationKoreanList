@@ -1,5 +1,5 @@
 ### Base Version
->Minecraft v1.21.90.25
+>Minecraft v1.21.100.23
 
 ***
 
@@ -23,12 +23,57 @@
 # Entity
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
+|entity.bogged.name|Bogged|수렁에 빠짐|보그드|
+|entity.breeze.name|Breeze|산들바람|브리즈|
+|entity.breeze_wind_charge_projectile.name|Wind Charge|바람 돌격|돌풍구|
+|entity.endermite.name|Endermite|엔더 진드기|엔더마이트|
+|entity.fishing_hook.name|Fishing Hook|낚시 바늘|낚시찌|
+|entity.piglin_brute.name|Piglin Brute|피글린 브루테|난폭한 피글린|
+|entity.leash_knot.name|Leash Knot|목줄 고리|끈 매듭|
+|entity.lingering_potion.name|Lingering Potion|오래 가는 포션|잔류형 물약|
 |entity.minecart.name|Minecart|광물 수레|광산 수레|
 |entity.chest_minecart.name|Minecart with Chest|상자 광물 수레|상자가 실린 광산 수레|
 |entity.command_block_minecart.name|Minecart with Command Block|커맨드 블록 광물 수레|명령 블록이 실린 광산 수레|
 |entity.furnace_minecart.name|Minecart with Furnace|화로 광물 수레|화로가 실린 광산 수레|
 |entity.hopper_minecart.name|Minecart with Hopper|호퍼 광물 수레|호퍼가 실린 광산 수레|
 |entity.tnt_minecart.name|Minecart with TNT|TNT 광물 수레|TNT가 실린 광산 수레|
+|entity.mooshroom.name|Mooshroom|버섯소|무시룸|
+|entity.moving_block.name|Moving Block|이동 블록|움직이는 블록|
+|entity.painting.name|Painting|그림 액자|그림|
+|entity.shulker_bullet.name|Shulker Bullet|셜커 공|셜커 탄환|
+|entity.splash_potion.name|Potion|포션|투척용 물약|
+|entity.tnt.name|Block of TNT|TNT 블록|점화된 TNT|
+|entity.villager.armor|Armorer|갑옷 제조자|갑옷 제조인|
+|entity.villager.librarian|Librarian|도서관 사서|사서|
+|entity.villager.tool|Tool Smith|도구 제조인|도구 대장장이|
+|entity.villager.weapon|Weapon Smith|무기 제조인|무기 대장장이|
+|entity.wind_charge_projectile.name|Wind Charge|바람 돌격|돌풍구|
+|entity.xp_bottle.name|Bottle o' Enchanting|경험치 병|던져진 경험치 병|
+|entity.zombie_pigman.name|Zombified Piglin|좀비 피글린|좀비화 피글린|
+
+<br>
+
+# Enchantment
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
+|:---:|:---:|:---:|:---:|:---:|
+|enchantment.waterWorker|Aqua Affinity|수중 친화력|친수성|
+|enchantment.damage.arthropods|Bane of Arthropods|절지동물 격파|살충|
+|enchantment.protect.explosion|Blast Protection|폭발 방어|폭발로부터 보호|
+|enchantment.heavy_weapon.breach|Breach|위반|격파|
+|enchantment.tridentChanneling|Channeling|채널링|집전|
+|enchantment.heavy_weapon.density|Density|밀도|육중|
+|enchantment.digging|Efficiency|효율성|효율|
+|enchantment.protect.fall|Feather Falling|깃털 낙하|가벼운 착지|
+|enchantment.protect.fire|Fire Protection|화염 방어|화염으로부터 보호|
+|enchantment.lootBonusDigger|Fortune|희귀품 채굴|행운|
+|enchantment.lootBonus|Looting|전리품 획득|약탈|
+|enchantment.tridentLoyalty|Loyalty|충성심|충성|
+|enchantment.crossbowMultishot|Multishot|멀티샷|다중 발사|
+|enchantment.arrowDamage|Power|강화|힘|
+|enchantment.protect.projectile|Projectile Protection|원거리 공격 방어|발사체로부터 보호|
+|enchantment.protect.all|Protection|방어|보호|
+|enchantment.arrowKnockback|Punch|타격|밀어내기|
+|enchantment.tridentRiptide|Riptide|거친 해류|급류|
 
 <br>
 

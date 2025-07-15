@@ -1,7 +1,31 @@
 ### Base Version
->Minecraft v1.21.90.25
+>Minecraft v1.21.100.23
 
 ***
+
+# Enchantment
+|Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
+|:---:|:---:|:---:|:---:|:---:|
+|enchantment.waterWorker|Aqua Affinity|수중 친화력|친수성|
+|enchantment.damage.arthropods|Bane of Arthropods|절지동물 격파|살충|
+|enchantment.protect.explosion|Blast Protection|폭발 방어|폭발로부터 보호|
+|enchantment.heavy_weapon.breach|Breach|위반|격파|
+|enchantment.tridentChanneling|Channeling|채널링|집전|
+|enchantment.heavy_weapon.density|Density|밀도|육중|
+|enchantment.digging|Efficiency|효율성|효율|
+|enchantment.protect.fall|Feather Falling|깃털 낙하|가벼운 착지|
+|enchantment.protect.fire|Fire Protection|화염 방어|화염으로부터 보호|
+|enchantment.lootBonusDigger|Fortune|희귀품 채굴|행운|
+|enchantment.lootBonus|Looting|전리품 획득|약탈|
+|enchantment.tridentLoyalty|Loyalty|충성심|충성|
+|enchantment.crossbowMultishot|Multishot|멀티샷|다중 발사|
+|enchantment.arrowDamage|Power|강화|힘|
+|enchantment.protect.projectile|Projectile Protection|원거리 공격 방어|발사체로부터 보호|
+|enchantment.protect.all|Protection|방어|보호|
+|enchantment.arrowKnockback|Punch|타격|밀어내기|
+|enchantment.tridentRiptide|Riptide|거친 해류|급류|
+
+<br>
 
 # Item Group
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
