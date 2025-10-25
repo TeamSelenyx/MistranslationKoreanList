@@ -1,5 +1,5 @@
 ### Base Version
->Minecraft v1.21.100.23
+>Minecraft v1.21.130.22
 
 ***
 
@@ -83,6 +83,7 @@
 |itemGroup.name.rawFood|Raw Food|익희지 않은 음식|익히지 않은 음식|
 |itemGroup.name.smithing_templates|Smithing Templates|대장일 템플릿|대장장이 형판|
 |itemGroup.name.harnesses|Harnesses|마구|하네스|
+|itemGroup.name.bars|Bars|막대|창살|
 
 <br>
 
@@ -228,6 +229,11 @@
 # Block
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
+|tile.acacia_shelf.name|Acacia Shelf|아카시아 선반|아카시아나무 선반|
+|tile.crimson_shelf.name|Crimson Shelf|진홍색 선반|진홍빛 선반|
+|tile.jungle_shelf.name|Jungle Shelf|정글 선반|정글나무 선반|
+|tile.mangrove_shelf.name|Mangrove Shelf|맹그로브 선반|맹그로브나무 선반|
+|tile.pale_oak_shelf.name|Pale Oak Shelf|옅은 참나무 선반|창백한 참나무 선반|
 |tile.bamboo_mosaic_slab.name|Bamboo Mosaic Slab|대나무 모자이크 판|대나무 모자이크 반 블록|
 |tile.bamboo_slab.name|Bamboo Slab|대나무 판|대나무 반 블록|
 |tile.bamboo_trapdoor.name|Bamboo Trapdoor|대나무 뚜껑문|대나무 다락문|
@@ -592,36 +598,71 @@
 |tile.waxed_exposed_copper_trapdoor.name|Waxed Exposed Copper Trapdoor|왁스 노출된 구리 뚜껑문|밀랍칠한 약간 녹슨 구리 다락문|
 |tile.waxed_weathered_copper_trapdoor.name|Waxed Weathered Copper Trapdoor|왁스 풍화된 구리 뚜껑문|밀랍칠한 녹슨 구리 다락문|
 |tile.waxed_oxidized_copper_trapdoor.name|Waxed Oxidized Copper Trapdoor|왁스 산화된 구리 뚜껑문|밀랍칠한 산화된 구리 다락문|
-|tile.deepslate.name|Deepslate|딥슬레이트|심층암|
-|tile.infested_deepslate.name|Infested Deepslate|딥슬레이트|심층암|
-|tile.cobbled_deepslate.name|Cobbled Deepslate|자갈 딥슬레이트|심층암 조약돌|
-|tile.cobbled_deepslate_slab.name|Cobbled Deepslate Slab|자갈 딥슬레이트 판|심층암 조약돌 반 블록|
-|tile.cobbled_deepslate_stairs.name|Cobbled Deepslate Stairs|자갈 딥슬레이트 계단|심층암 조약돌 계단|
-|tile.cobbled_deepslate_wall.name|Cobbled Deepslate Wall|자갈 딥슬레이트 벽|심층암 조약돌 담장|
-|tile.polished_deepslate.name|Polished Deepslate Slab|연마된 딥슬레이트|윤나는 심층암|
-|tile.polished_deepslate_slab.name|Polished Deepslate Stairs|연마된 딥슬레이트 판|윤나는 심층암 반 블록|
-|tile.polished_deepslate_stairs.name|Polished Deepslate|연마된 딥슬레이트 계단|윤나는 심층암 계단|
-|tile.polished_deepslate_wall.name|Polished Deepslate|연마된 딥슬레이트 벽|윤나는 심층암 담장|
-|tile.deepslate_tiles.name|Deepslate Tiles|딥슬레이트 타일|심층암 타일|
-|tile.deepslate_tile_slab.name|Deepslate Tile Slab|딥슬레이트 타일 판|심층암 타일 반 블록|
-|tile.deepslate_tile_stairs.name|Deepslate Tile Stairs|딥슬레이트 타일 계단|심층암 타일 계단|
-|tile.deepslate_tile_wall.name|Deepslate Tile Wall|딥슬레이트 타일 벽|심층암 타일 담장|
-|tile.deepslate_bricks.name|Deepslate Bricks|딥슬레이트 벽돌|심층암 벽돌|
-|tile.deepslate_brick_slab.name|Deepslate Brick Slab|딥슬레이트 벽돌 판|심층암 벽돌 반 블록|
-|tile.deepslate_brick_stairs.name|Deepslate Brick Stairs|딥슬레이트 벽돌 계단|심층암 벽돌 계단|
-|tile.deepslate_brick_wall.name|Deepslate Brick Wall|딥슬레이트 벽돌 벽|심층암 벽돌 담장|
-|tile.chiseled_deepslate.name|Chiseled Deepslate|깎아놓은 딥슬레이트|조각된 심층암|
-|tile.cracked_deepslate_tiles.name|Cracked Deepslate Tiles|갈라진 딥슬레이트 타일|금 간 심층암 타일|
-|tile.cracked_deepslate_bricks.name|Cracked Deepslate Bricks|갈라진 딥슬레이트 벽돌|금 간 심층암 벽돌|
-|tile.cobbled_deepslate_double_slab.name|Cobbled Deepslate Double Slab|자갈 딥슬레이트 이중 판|심층암 조약돌 이중 반 블록|
-|tile.polished_deepslate_double_slab.name|Polished Deepslate Double Slab|연마된 딥슬레이트 이중 판|윤나는 심층암 이중 반 블록|
-|tile.deepslate_tile_double_slab.name|Deepslate Tile Double Slab|딥슬레이트 타일 이중 판|심층암 타일 이중 반 블록|
-|tile.deepslate_brick_double_slab.name|Deepslate Brick Double Slab|딥슬레이트 벽돌 이중 판|심층암 벽돌 이중 반 블록|
-|tile.deepslate_lapis_ore.name|Deepslate Lapis Lazuli Ore|딥슬레이트 청금석 광석|심층암 청금석 광석|
-|tile.deepslate_iron_ore.name|Deepslate Iron Ore|딥슬레이트 철광석|심층암 철 광석|
-|tile.deepslate_gold_ore.name|Deepslate Gold Ore|딥슬레이트 황금 광석|심층암 금 광석|
-|tile.deepslate_redstone_ore.name|Deepslate Redstone Ore|딥슬레이트 레드스톤 광석|심층암 레드스톤 광석|
-|tile.deepslate_diamond_ore.name|Deepslate Diamond Ore|딥슬레이트 다이아몬드 광석|심층암 다이아몬드 광석|
-|tile.deepslate_coal_ore.name|Deepslate Coal Ore|딥슬레이트 석탄 광석|심층암 석탄 광석|
-|tile.deepslate_emerald_ore.name|Deepslate Emerald Ore|딥슬레이트 에메랄드 광석|심층암 에메랄드 광석|
-|tile.deepslate_copper_ore.name|Deepslate Copper Ore|딥슬레이트 구리 광석|심층암 구리 광석|
+|tile.exposed_copper_golem_statue.name|Exposed Copper Golem Statue|노출된 구리 골렘 동상|약간 녹슨 구리 골렘 동상|
+|tile.weathered_copper_golem_statue.name|Weathered Copper Golem Statue|풍화된 구리 골렘 동상|녹슨 구리 골렘 동상|
+|tile.oxidized_copper_golem_statue.name|Oxidized Copper Golem Statue|산화된 구리 골렘 동상|산화된 구리 골렘 동상|
+|tile.waxed_copper_golem_statue.name|Waxed Copper Golem Statue|왁스칠한 구리 골렘 동상|밀랍칠한 구리 골렘 동상|
+|tile.waxed_exposed_copper_golem_statue.name|Waxed Exposed Copper Golem Statue|왁스칠한 노출된 구리 골렘 동상|밀랍칠한 약간 녹슨 구리 골렘 동상|
+|tile.waxed_weathered_copper_golem_statue.name|Waxed Weathered Copper Golem Statue|왁스칠한 풍화된 구리 골렘 동상|밀랍칠한 녹슨 구리 골렘 동상|
+|tile.waxed_oxidized_copper_golem_statue.name|Waxed Oxidized Copper Golem Statue|왁스칠한 산화된 구리 골렘 동상|밀랍칠한 산화된 구리 골렘 동상|
+|tile.exposed_copper_chain.name|Exposed Copper Chain|노출된 구리 사슬|약간 녹슨 구리 사슬|
+|tile.weathered_copper_chain.name|Weathered Copper Chain|풍화된 구리 사슬|녹슨 구리 사슬|
+|tile.oxidized_copper_chain.name|Oxidized Copper Chain|산화된 구리 사슬|산화된 구리 사슬|
+|tile.waxed_copper_chain.name|Waxed Copper Chain|왁스 구리 사슬|밀랍칠한 구리 사슬|
+|tile.waxed_exposed_copper_chain.name|Waxed Exposed Copper Chain|왁스 노출된 구리 사슬|밀랍칠한 약간 녹슨 구리 사슬|
+|tile.waxed_weathered_copper_chain.name|Waxed Weathered Copper Chain|왁스 풍화된 구리 사슬|밀랍칠한 녹슨 구리 사슬|
+|tile.waxed_oxidized_copper_chain.name|Waxed Oxidized Copper Chain|왁스 산화된 구리 사슬|밀랍칠한 산화된 구리 사슬|
+|tile.exposed_copper_bars.name|Exposed Copper Bars|노출된 구리 창살|약간 녹슨 구리 창살|
+|tile.weathered_copper_bars.name|Weathered Copper Bars|풍화된 구리 창살|녹슨 구리 창살|
+|tile.oxidized_copper_bars.name|Oxidized Copper Bars|산화된 구리 창살|산화된 구리 창살|
+|tile.waxed_copper_bars.name|Waxed Copper Bars|왁스 구리 창살|밀랍칠한 구리 창살|
+|tile.waxed_exposed_copper_bars.name|Waxed Exposed Copper Bars|왁스 노출된 구리 창살|밀랍칠한 약간 녹슨 구리 창살|
+|tile.waxed_weathered_copper_bars.name|Waxed Weathered Copper Bars|왁스 풍화된 구리 창살|밀랍칠한 녹슨 구리 창살|
+|tile.waxed_oxidized_copper_bars.name|Waxed Oxidized Copper Bars|왁스 산화된 구리 창살|밀랍칠한 산화된 구리 창살|
+|tile.exposed_copper_lantern.name|Exposed Copper Lantern|노출된 구리 랜턴|약간 녹슨 구리 랜턴|
+|tile.weathered_copper_lantern.name|Weathered Copper Lantern|풍화된 구리 랜턴|녹슨 구리 랜턴|
+|tile.oxidized_copper_lantern.name|Oxidized Copper Lantern|산화된 구리 랜턴|산화된 구리 랜턴|
+|tile.waxed_copper_lantern.name|Waxed Copper Lantern|왁스 구리 랜턴|밀랍칠한 구리 랜턴|
+|tile.waxed_exposed_copper_lantern.name|Waxed Exposed Copper Lantern|왁스 노출된 구리 랜턴|밀랍칠한 약간 녹슨 구리 랜턴|
+|tile.waxed_weathered_copper_lantern.name|Waxed Weathered Copper Lantern|왁스 풍화된 구리 랜턴|밀랍칠한 녹슨 구리 랜턴|
+|tile.waxed_oxidized_copper_lantern.name|Waxed Oxidized Copper Lantern|왁스 산화된 구리 랜턴|밀랍칠한 산화된 구리 랜턴|
+|tile.exposed_copper_chest.name|Exposed Copper Chest|노출된 구리 상자|약간 녹슨 구리 상자|
+|tile.weathered_copper_chest.name|Weathered Copper Chest|풍화된 구리 상자|녹슨 구리 상자|
+|tile.oxidized_copper_chest.name|Oxidized Copper Chest|산화된 구리 상자|산화된 구리 상자|
+|tile.waxed_copper_chest.name|Waxed Copper Chest|왁스 구리 상자|밀랍칠한 구리 상자|
+|tile.waxed_exposed_copper_chest.name|Waxed Exposed Copper Chest|왁스 노출된 구리 상자|밀랍칠한 약간 녹슨 구리 상자|
+|tile.waxed_weathered_copper_chest.name|Waxed Weathered Copper Chest|왁스 풍화된 구리 상자|밀랍칠한 녹슨 구리 상자|
+|tile.waxed_oxidized_copper_chest.name|Waxed Oxidized Copper Chest|왁스 산화된 구리 상자|밀랍칠한 산화된 구리 상자|
+|tile.deepslate.name|Deepslate|심층암|심층암|
+|tile.infested_deepslate.name|Infested Deepslate|심층암|심층암|
+|tile.cobbled_deepslate.name|Cobbled Deepslate|자갈 심층암|심층암 조약돌|
+|tile.cobbled_deepslate_slab.name|Cobbled Deepslate Slab|자갈 심층암 판|심층암 조약돌 반 블록|
+|tile.cobbled_deepslate_stairs.name|Cobbled Deepslate Stairs|자갈 심층암 계단|심층암 조약돌 계단|
+|tile.cobbled_deepslate_wall.name|Cobbled Deepslate Wall|자갈 심층암 벽|심층암 조약돌 담장|
+|tile.polished_deepslate.name|Polished Deepslate Slab|연마된 심층암|윤나는 심층암|
+|tile.polished_deepslate_slab.name|Polished Deepslate Stairs|연마된 심층암 판|윤나는 심층암 반 블록|
+|tile.polished_deepslate_stairs.name|Polished Deepslate|연마된 심층암 계단|윤나는 심층암 계단|
+|tile.polished_deepslate_wall.name|Polished Deepslate|연마된 심층암 벽|윤나는 심층암 담장|
+|tile.deepslate_tiles.name|Deepslate Tiles|심층암 타일|심층암 타일|
+|tile.deepslate_tile_slab.name|Deepslate Tile Slab|심층암 타일 판|심층암 타일 반 블록|
+|tile.deepslate_tile_stairs.name|Deepslate Tile Stairs|심층암 타일 계단|심층암 타일 계단|
+|tile.deepslate_tile_wall.name|Deepslate Tile Wall|심층암 타일 벽|심층암 타일 담장|
+|tile.deepslate_bricks.name|Deepslate Bricks|심층암 벽돌|심층암 벽돌|
+|tile.deepslate_brick_slab.name|Deepslate Brick Slab|심층암 벽돌 판|심층암 벽돌 반 블록|
+|tile.deepslate_brick_stairs.name|Deepslate Brick Stairs|심층암 벽돌 계단|심층암 벽돌 계단|
+|tile.deepslate_brick_wall.name|Deepslate Brick Wall|심층암 벽돌 벽|심층암 벽돌 담장|
+|tile.chiseled_deepslate.name|Chiseled Deepslate|깎아놓은 심층암|조각된 심층암|
+|tile.cracked_deepslate_tiles.name|Cracked Deepslate Tiles|갈라진 심층암 타일|금 간 심층암 타일|
+|tile.cracked_deepslate_bricks.name|Cracked Deepslate Bricks|갈라진 심층암 벽돌|금 간 심층암 벽돌|
+|tile.cobbled_deepslate_double_slab.name|Cobbled Deepslate Double Slab|자갈 심층암 이중 판|심층암 조약돌 이중 반 블록|
+|tile.polished_deepslate_double_slab.name|Polished Deepslate Double Slab|연마된 심층암 이중 판|윤나는 심층암 이중 반 블록|
+|tile.deepslate_tile_double_slab.name|Deepslate Tile Double Slab|심층암 타일 이중 판|심층암 타일 이중 반 블록|
+|tile.deepslate_brick_double_slab.name|Deepslate Brick Double Slab|심층암 벽돌 이중 판|심층암 벽돌 이중 반 블록|
+|tile.deepslate_lapis_ore.name|Deepslate Lapis Lazuli Ore|심층암 청금석 광석|심층암 청금석 광석|
+|tile.deepslate_iron_ore.name|Deepslate Iron Ore|심층암 철광석|심층암 철 광석|
+|tile.deepslate_gold_ore.name|Deepslate Gold Ore|심층암 황금 광석|심층암 금 광석|
+|tile.deepslate_redstone_ore.name|Deepslate Redstone Ore|심층암 레드스톤 광석|심층암 레드스톤 광석|
+|tile.deepslate_diamond_ore.name|Deepslate Diamond Ore|심층암 다이아몬드 광석|심층암 다이아몬드 광석|
+|tile.deepslate_coal_ore.name|Deepslate Coal Ore|심층암 석탄 광석|심층암 석탄 광석|
+|tile.deepslate_emerald_ore.name|Deepslate Emerald Ore|심층암 에메랄드 광석|심층암 에메랄드 광석|
+|tile.deepslate_copper_ore.name|Deepslate Copper Ore|심층암 구리 광석|심층암 구리 광석|
