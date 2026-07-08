@@ -1,5 +1,5 @@
 ### Base Version
->Minecraft v26.30.28
+>Minecraft v26.40.30
 
 ***
 
@@ -40,8 +40,6 @@
 |lategameTips.19|Riptide enchantment will propel you through the air in the rain.|급류 마법 부여를 통해 빗속에서 공중을 질주할 수 있습니다.|급류 마법을 통해 빗속에서 공중을 질주할 수 있습니다.|
 |lategameTips.20|The Beacon is a powerful item that can only be crafted with a Nether star from the Wither!|신호기는 시듦이 떨어뜨리는 네더의 별로만 만들 수 있는 강력한 아이템입니다.|신호기는 위더가 떨어뜨리는 네더의 별로만 만들 수 있는 강력한 아이템입니다.|
 |lategameTips.26|Gold is most common in the Nether and in the badlands biome.|황금은 네더와 악지 생물군계에서 가장 흔합니다.|금은 네더와 황무지 생물 군계에서 가장 흔합니다.|
-|lategameTips.4||||
-|lategameTips.4||||
 
 <br>
 
@@ -210,6 +208,66 @@
 |tile.waxed_exposed_copper_bars.name|Waxed Exposed Copper Bars|밀랍칠한 약간 녹슨 구리 막대|밀랍칠한 약간 녹슨 구리 창살|
 |tile.waxed_weathered_copper_bars.name|Waxed Weathered Copper Bars|밀랍칠한 녹슨 구리 막대|밀랍칠한 녹슨 구리 창살|
 |tile.waxed_oxidized_copper_bars.name|Waxed Oxidized Copper Bars|밀랍칠한 산화된 구리 막대|밀랍칠한 산화된 구리 창살|
+|item.boat.poplar.name|Poplar Boat|포플러 보트|포플러나무 보트|
+|item.chest_boat.poplar.name|Poplar Boat with Chest|상자가 실린 포플러 보트|상자가 실린 포플러나무 보트|
+|item.poplar_door.name|Poplar Door|포플러 문|포플러나무 문|
+|item.poplar_hanging_sign.name|Poplar Hanging Sign|포플러 매다는 표지판|포플러나무 매다는 표지판|
+|item.poplar_sign.name|Poplar Sign|포플러 표지판|포플러나무 표지판|
+|tile.poplar_button.name|Poplar Button|포플러 버튼|포플러나무 버튼|
+|tile.poplar_double_slab.name|Poplar Double Slab|포플러 이중 판|포플러나무 이중 반 블록|
+|tile.poplar_fence.name|Poplar Fence|포플러 울타리|포플러나무 울타리|
+|tile.poplar_fence_gate.name|Poplar Fence Gate|포플러 울타리 문|포플러나무 울타리 문|
+|tile.poplar_log.name|Poplar Log|포플러 통나무|포플러나무 원목|
+|tile.poplar_planks.name|Poplar Planks|포플러 판자|포플러나무 판자|
+|tile.poplar_pressure_plate.name|Poplar Pressure Plate|포플러 압력판|포플러나무 압력판|
+|tile.poplar_slab.name|Poplar Slab|포플러 블록|포플러나무 반 블록|
+|tile.poplar_stairs.name|Poplar Stairs|포플러 계단|포플러나무 계단|
+|tile.poplar_trapdoor.name|Poplar Trapdoor|포플러 다락문|포플러나무 다락문|
+|tile.poplar_wood.name|Poplar Wood|포플러 나무|포플러나무|
+|tile.stripped_poplar_log.name|Stripped Poplar Log|껍질 벗긴 포플러 통나무|껍질 벗긴 포플러나무 원목|
+|tile.stripped_poplar_wood.name|Stripped Poplar Wood|껍질 벗긴 포플러 나무|껍질 벗긴 포플러나무|
+|tile.poplar_door.name|Poplar Door|포플러 문|포플러나무 문|
+|tile.poplar_hanging_sign.name|Poplar Sign|포플러 표지판|포플러나무 표지판|
+|tile.poplar_standing_sign.name|Poplar Sign|포플러 표지판|포플러나무 표지판|
+|tile.poplar_wall_sign.name|Poplar Wall Sign|포플러 담장 표지판|포플러나무 서있는 표지판|
+|tile.poplar_sapling.name|Poplar Sapling|포플러 묘목|포플러나무 묘목|
+|tile.orange_poplar_leaves.name|Orange Poplar Leaves|주황색 포플러 잎|주황 포플러나무 잎|
+|tile.red_poplar_leaves.name|Red Poplar Leaves|빨간색 포플러 잎|붉은 포플러나무 잎|
+|tile.yellow_poplar_leaves.name|Yellow Poplar Leaves|노란색 포플러 잎|노란 포플러나무 잎|
+|tile.poplar_shelf.name|Poplar Shelf|포플러 선반|포플러나무 선반|
+|tile.red_shrub.name|Red Shrub|빨간색 관목|붉은 관목|
+|tile.white_wool_slab.name|White Wool Slab|하얀색 양털 블록|하얀색 양털 반 블록|
+|tile.light_gray_wool_slab.name|Light Gray Wool Slab|회백색 양털 블록|회백색 양털 반 블록|
+|tile.gray_wool_slab.name|Gray Wool Slab|회색 양털 블록|회색 양털 반 블록|
+|tile.black_wool_slab.name|Black Wool Slab|검은색 양털 블록|검은색 양털 반 블록|
+|tile.brown_wool_slab.name|Brown Wool Slab|갈색 양털 블록|갈색 양털 반 블록|
+|tile.red_wool_slab.name|Red Wool Slab|빨간색 양털 블록|빨간색 양털 반 블록|
+|tile.orange_wool_slab.name|Orange Wool Slab|주황색 양털 블록|주황색 양털 반 블록|
+|tile.yellow_wool_slab.name|Yellow Wool Slab|노란색 양털 블록|노란색 양털 반 블록|
+|tile.lime_wool_slab.name|Lime Wool Slab|연두색 양털 블록|연두색 양털 반 블록|
+|tile.green_wool_slab.name|Green Wool Slab|초록색 양털 블록|초록색 양털 반 블록|
+|tile.cyan_wool_slab.name|Cyan Wool Slab|청록색 양털 블록|청록색 양털 반 블록|
+|tile.light_blue_wool_slab.name|Light Blue Wool Slab|하늘색 양털 블록|하늘색 양털 반 블록|
+|tile.blue_wool_slab.name|Blue Wool Slab|파란색 양털 블록|파란색 양털 반 블록|
+|tile.purple_wool_slab.name|Purple Wool Slab|보라색 양털 블록|보라색 양털 반 블록|
+|tile.magenta_wool_slab.name|Magenta Wool Slab|자홍색 양털 블록|자홍색 양털 반 블록|
+|tile.pink_wool_slab.name|Pink Wool Slab|분홍색 양털 블록|분홍색 양털 반 블록|
+|tile.white_wool_double_slab.name|White Wool Double Slab|하얀색 양털 이중 판|하얀색 양털 이중 반 블록|
+|tile.light_gray_wool_double_slab.name|Light Gray Wool Double Slab|회백색 양털 이중 판|회백색 양털 이중 반 블록|
+|tile.gray_wool_double_slab.name|Gray Wool Double Slab|회색 양털 이중 판|회색 양털 이중 반 블록|
+|tile.black_wool_double_slab.name|Black Wool Double Slab|검은색 양털 이중 판|검은색 양털 이중 반 블록|
+|tile.brown_wool_double_slab.name|Brown Wool Double Slab|갈색 양털 이중 판|갈색 양털 이중 반 블록|
+|tile.red_wool_double_slab.name|Red Wool Double Slab|빨간색 양털 이중 판|빨간색 양털 이중 반 블록|
+|tile.orange_wool_double_slab.name|Orange Wool Double Slab|주황색 양털 이중 판|주황색 양털 이중 반 블록|
+|tile.yellow_wool_double_slab.name|Yellow Wool Double Slab|노란색 양털 이중 판|노란색 양털 이중 반 블록|
+|tile.lime_wool_double_slab.name|Lime Wool Double Slab|연두색 양털 이중 판|연두색 양털 이중 반 블록|
+|tile.green_wool_double_slab.name|Green Wool Double Slab|초록색 양털 이중 판|초록색 양털 이중 반 블록|
+|tile.cyan_wool_double_slab.name|Cyan Wool Double Slab|청록색 양털 이중 판|청록색 양털 이중 반 블록|
+|tile.light_blue_wool_double_slab.name|Light Blue Wool Double Slab|하늘색 양털 이중 판|하늘색 양털 이중 반 블록|
+|tile.blue_wool_double_slab.name|Blue Wool Double Slab|파란색 양털 이중 판|파란색 양털 이중 반 블록|
+|tile.purple_wool_double_slab.name|Purple Wool Double Slab|보라색 양털 이중 판|보라색 양털 이중 반 블록|
+|tile.magenta_wool_double_slab.name|Magenta Wool Double Slab|자홍색 양털 이중 판|자홍색 양털 이중 반 블록|
+|tile.pink_wool_double_slab.name|Pink Wool Double Slab|분홍색 양털 이중 판|분홍색 양털 이중 반 블록|
 
 <br>
 
@@ -220,3 +278,4 @@
 |subtitles.ambient.sound|Eerie noise|으스스한 소음|오싹한 소리|
 |subtitles.block.amethyst_block.chime|Amethyst chimes|자수정이 울린다|자수정이 울림|
 |subtitles.block.amethyst_block.resonate|Amethyst resonates|자수정이 공명한다|자수정이 공명함|
+|subtitles.block.poplar_leaves.ambient|Leaves rustle|잎 부스럭 소리|나뭇잎이 바스락거리는 소리|
