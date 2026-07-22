@@ -1,5 +1,5 @@
 ### Base Version
->Minecraft v26.40.30
+>Minecraft v26.50.20
 
 ***
 
@@ -99,6 +99,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |itemGroup.name.harnesses|Harnesses|마구|하네스|
 |itemGroup.name.bars|Bars|막대|창살|
+|itemGroup.name.bundles|Bundles|번들|꾸러미|
 
 <br>
 
@@ -124,6 +125,7 @@
 # Item
 |Key|en_US|Mistranslation(ko_KR)|New Translation(ko_KR)|Remark|
 |:---:|:---:|:---:|:---:|:---:|
+|item.pink_bundle|Pink Bundle|분홍색 번들|분홍색 꾸러미|
 |item.smithing_template.armor_trim.applies_to|Armor|방어구|갑옷|
 |item.smithing_template.armor_trim.ingredients|Ingots & Crystals|주괴 & 크리스탈|주괴 & 수정|
 |item.netherite_upgrade_smithing_template.name|Netherite Upgrade|네더라이트 업그레이드|네더라이트 강화|
